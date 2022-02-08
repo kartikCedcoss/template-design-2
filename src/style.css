@@ -1,0 +1,40 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(41, 39, 39);
+  }
+  
+  li {
+    float: left;
+    border-right:2px solid #bbb;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 10px 14px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #136b13;
+  }
+
+  .gcolor{
+      background-color: rgb(148, 142, 142);
+  }
+  h1{
+      margin:0px;
+  }
+  #spl{
+      padding-top: 13px;
+      padding-bottom:13px;
+  }
+  /* .lmargn{
+      border : 0px 0px 0px 1px;
+      border-style: solid;
+      color: white;
+  } */
