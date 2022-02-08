@@ -37,11 +37,12 @@ h1 {
   float: left;
   width: 70%;
   margin: 0px;
+  padding-bottom:15;
 }
 
 aside {
   background-color: rgb(218, 209, 209);
-  padding-bottom: 25%;
+  padding-bottom: 21%;
   float: right;
   margin: 0;
   width: 25%;
@@ -85,6 +86,26 @@ a {
 aside p{
     margin-top:2px;
 }
+footer{
+    
+    margin-top:35%;
+}
+/* .outer-footer{
+   float:right;
+    background-color:rgb(218, 209, 209) ;
+    margin-top: 20%;
+    
+
+} */
+footer {
+    text-align: right;
+    padding: 3px;
+    background-color: rgb(218, 209, 209);
+    color: rgb(15, 15, 15);
+  }
+  .footerp{
+      padding-right: 10px;
+  }
 /* .gallery-text {
     float: left;
     width: 48%;
